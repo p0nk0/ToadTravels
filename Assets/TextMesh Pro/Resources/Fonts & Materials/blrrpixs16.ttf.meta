@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ed5f5d6b9321efc40a64d776db4a1985
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Blrrpix
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0c564078786796d4d8518be8dfb57889, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
